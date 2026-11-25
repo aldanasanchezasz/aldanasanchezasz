@@ -4,7 +4,7 @@ Estudiante avanzada de la **Tecnicatura Universitaria en Inteligencia Artificial
 Me interesan el **machine learning**, el **procesamiento de lenguaje natural** y la **ingeniería de datos**: llevar un problema desde los datos crudos hasta un modelo o un dashboard que alguien pueda usar.
 
 🔎 **Busco mi primera experiencia** como Data Analyst / ML / Data Engineer trainee o junior.
-📫 [LinkedIn](https://www.linkedin.com/in/TU-USUARIO) · ✉️ tu-email@ejemplo.com
+📫 https://www.linkedin.com/in/aldana-desire-sanchez/ · ✉️ aldanasanchezasz@gmail.com
 
 ---
 
